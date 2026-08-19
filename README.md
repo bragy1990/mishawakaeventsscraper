@@ -88,14 +88,14 @@ In your GitHub repository:
 
 Once pushed to GitHub, your calendar file is permanently accessible at:
 ```text
-https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/mishawaka_calendar.ics
+https://raw.githubusercontent.com/bragy1990/mishawakaeventsscraper/main/mishawaka_calendar.ics
 ```
 
 ### Apple Calendar (iOS / macOS)
 1. In Calendar on Mac, select **File > New Calendar Subscription...** (On iPhone/iPad: *Settings > Calendar > Accounts > Add Subscribed Calendar*).
 2. Enter:
    ```text
-   webcal://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/mishawaka_calendar.ics
+   webcal://raw.githubusercontent.com/bragy1990/mishawakaeventsscraper/main/mishawaka_calendar.ics
    ```
 3. Set Auto-Refresh to **Every hour** or **Every day**.
 
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/mishawaka_cal
 2. In the left sidebar, next to **Other calendars**, click **+ > From URL**.
 3. Paste the URL:
    ```text
-   https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/mishawaka_calendar.ics
+   https://raw.githubusercontent.com/bragy1990/mishawakaeventsscraper/main/mishawaka_calendar.ics
    ```
 4. Click **Add calendar**. Google Calendar will automatically poll and refresh the feed in the background.
 
