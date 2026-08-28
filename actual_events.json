@@ -1,22 +1,6 @@
 [
   {
     "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-07-28/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-07-28T10:00:00-04:00",
-    "iso_end": "2026-07-28T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-07-28",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-08-04/",
     "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
@@ -377,6 +361,70 @@
     "schedule_instances": [
       {
         "date": "2027-01-05",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-12/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-01-12T10:00:00-05:00",
+    "iso_end": "2027-01-12T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-01-12",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-19/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-01-19T10:00:00-05:00",
+    "iso_end": "2027-01-19T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-01-19",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-26/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-01-26T10:00:00-05:00",
+    "iso_end": "2027-01-26T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-01-26",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-02/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-02-02T10:00:00-05:00",
+    "iso_end": "2027-02-02T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-02-02",
         "start_time": "10:00:00",
         "end_time": "11:00:00",
         "all_day": false
@@ -1137,22 +1185,6 @@
   },
   {
     "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-07-27/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-07-27T16:30:00-04:00",
-    "iso_end": "2026-07-27T17:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-07-27",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-08-24/",
     "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
     "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
@@ -1585,22 +1617,6 @@
   },
   {
     "title": "Redevelopment Commission",
-    "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-07-27/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-07-27T17:30:00-04:00",
-    "iso_end": "2026-07-27T18:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-07-27",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Redevelopment Commission",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-08-24/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
@@ -1835,22 +1851,6 @@
         "date": "2026-08-20",
         "start_time": "19:00:00",
         "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series/2026-07-27/",
-    "location": "Battell Park | IN 46544 United States + Google Map | IN 46544",
-    "description": "Join us for the Summer Concert Series at the Battell Park Bandshell. Mondays from 7:00pm - 8:30pm. Rain dates: 6/29 and 8/17",
-    "iso_start": "2026-07-27T19:00:00-04:00",
-    "iso_end": "2026-07-27T20:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-07-27",
-        "start_time": "19:00:00",
-        "end_time": "20:30:00",
         "all_day": false
       }
     ]
