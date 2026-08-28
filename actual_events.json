@@ -384,70 +384,6 @@
     ]
   },
   {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-12/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-01-12T10:00:00-05:00",
-    "iso_end": "2027-01-12T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-12",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-19/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-01-19T10:00:00-05:00",
-    "iso_end": "2027-01-19T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-19",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-26/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-01-26T10:00:00-05:00",
-    "iso_end": "2027-01-26T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-26",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-02/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-02-02T10:00:00-05:00",
-    "iso_end": "2027-02-02T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-02",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "Board of Zoning Appeals",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-05-13/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
@@ -1035,22 +971,6 @@
         "date": "2026-08-03",
         "start_time": "18:00:00",
         "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Mishawaka Market",
-    "url": "https://mishawaka.in.gov/event/mishawaka-market/2026-07-26/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for year 8 of the Mishawaka Market! The Market runs from 10 am - 2 pm, May 31st through September 27th*. There will be produce, crafts, baked goods, […]",
-    "iso_start": "2026-07-26T10:00:00-04:00",
-    "iso_end": "2026-07-26T14:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-07-26",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
         "all_day": false
       }
     ]
