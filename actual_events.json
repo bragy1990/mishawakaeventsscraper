@@ -864,6 +864,22 @@
     ]
   },
   {
+    "title": "Greenhouse Plant Sale",
+    "url": "https://mishawaka.in.gov/event/greenhouse-plant-sale/",
+    "location": "Battell Community Center | 904 N Main St | Mishawaka, IN 46545",
+    "description": "Join us for our Fall Greenhouse Plant Sale! This event is welcome to everyone! Come check out local vendors while plant shopping!We have been propagating plants with the MHS Garden […]",
+    "iso_start": "2026-09-19T10:00:00-04:00",
+    "iso_end": "2026-09-19T13:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-09-19",
+        "start_time": "10:00:00",
+        "end_time": "13:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "Historic Preservation Commission",
     "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2026-08-04/",
     "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
@@ -1019,6 +1035,54 @@
         "date": "2026-08-03",
         "start_time": "18:00:00",
         "end_time": "19:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Mish Fall Fest",
+    "url": "https://mishawaka.in.gov/event/mish-fall-fest/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
+    "description": "Welcome fall with us at the Mish! Fall Fest on September 25th at Ironworks Plaza from 6:30 - 8:30pm.We will have a performance from Trailer Swift in the Ball Band Biergarten, bumper […]",
+    "iso_start": "2026-09-25T18:30:00-04:00",
+    "iso_end": "2026-09-25T20:30:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-09-25",
+        "start_time": "18:30:00",
+        "end_time": "20:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Mishawaka Market Under the Lights: Second Glow",
+    "url": "https://mishawaka.in.gov/event/mishawaka-market-under-the-lights-second-glow/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
+    "description": "Join us for another Mishawaka Market Under the Lights: Second Glow! There will be live music, vendors, food trucks, and beverages in the Ball Band Biergarten! Learn More Here",
+    "iso_start": "2026-10-10T19:00:00-04:00",
+    "iso_end": "2026-10-10T21:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-10-10",
+        "start_time": "19:00:00",
+        "end_time": "21:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Mishawaka Market Under the Lights",
+    "url": "https://mishawaka.in.gov/event/mishawaka-market-under-the-lights/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
+    "description": "Join us for year 2 of the Mishawaka Market Under the Lights! There will be live music, vendors, food trucks, and beverages in the Ball Band Biergarten! Learn More Here",
+    "iso_start": "2026-10-03T19:00:00-04:00",
+    "iso_end": "2026-10-03T21:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-10-03",
+        "start_time": "19:00:00",
+        "end_time": "21:00:00",
         "all_day": false
       }
     ]
