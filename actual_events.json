@@ -1,64 +1,16 @@
 [
   {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-08-04/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-08-04T10:00:00-04:00",
-    "iso_end": "2026-08-04T11:00:00-04:00",
+    "title": "- City of Mishawaka",
+    "url": "https://mishawaka.in.gov/event/16140/",
+    "location": "Battell Community Center | 904 N Main St | Mishawaka, IN 46545",
+    "description": "Get into the festive spirit at our curated Holiday Craft Fair on Saturday, November 14th from 9:00 am - 1:00 pm located in the Battell Community Center. This delightful event […]",
+    "iso_start": "2026-11-14T09:00:00-05:00",
+    "iso_end": "2026-11-14T13:00:00-05:00",
     "schedule_instances": [
       {
-        "date": "2026-08-04",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-08-11/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-08-11T10:00:00-04:00",
-    "iso_end": "2026-08-11T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-11",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-08-18/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-08-18T10:00:00-04:00",
-    "iso_end": "2026-08-18T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-18",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-08-25/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-08-25T10:00:00-04:00",
-    "iso_end": "2026-08-25T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-25",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
+        "date": "2026-11-14",
+        "start_time": "09:00:00",
+        "end_time": "13:00:00",
         "all_day": false
       }
     ]
@@ -432,6 +384,70 @@
     ]
   },
   {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-09/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-02-09T10:00:00-05:00",
+    "iso_end": "2027-02-09T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-02-09",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-16/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-02-16T10:00:00-05:00",
+    "iso_end": "2027-02-16T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-02-16",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-23/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-02-23T10:00:00-05:00",
+    "iso_end": "2027-02-23T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-02-23",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Public Works Meeting.",
+    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-03-02/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-03-02T10:00:00-05:00",
+    "iso_end": "2027-03-02T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-03-02",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
     "title": "Board of Zoning Appeals",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-05-13/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
@@ -656,17 +672,17 @@
     ]
   },
   {
-    "title": "Common Council Meeting",
-    "url": "https://mishawaka.in.gov/event/common-council-meeting-2-2-2/2026-08-17/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "In accordance with Indiana law, please consider this our annual notice of the Mishawaka Common Council Meetings: The regular meetings of the Common Council of the City of Mishawaka, Indiana, […]",
-    "iso_start": "2026-08-17T17:45:00-04:00",
-    "iso_end": "2026-08-17T19:00:00-04:00",
+    "title": "Boo’s & Brews Haunted Brewfest",
+    "url": "https://mishawaka.in.gov/event/boos-brews-haunted-brewfest/",
+    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
+    "description": "Join us for our second annual Haunted Brewfest, Boos and Brews down at Ironworks Plaza on FRIDAY, October 16th, from 7pm - 10pm.Access to unlimited samples, VIP options, food trucks, artisan market, […]",
+    "iso_start": "2026-10-16T19:00:00-04:00",
+    "iso_end": "2026-10-16T22:00:00-04:00",
     "schedule_instances": [
       {
-        "date": "2026-08-17",
-        "start_time": "17:45:00",
-        "end_time": "19:00:00",
+        "date": "2026-10-16",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
         "all_day": false
       }
     ]
@@ -729,22 +745,6 @@
     "schedule_instances": [
       {
         "date": "2026-12-21",
-        "start_time": "17:45:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Common Council Meeting",
-    "url": "https://mishawaka.in.gov/event/common-council-meeting/2026-08-03/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "In accordance with Indiana law, please consider this our annual notice of the Mishawaka Common Council Meetings: The regular meetings of the Common Council of the City of Mishawaka, Indiana, […]",
-    "iso_start": "2026-08-03T17:45:00-04:00",
-    "iso_end": "2026-08-03T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-03",
         "start_time": "17:45:00",
         "end_time": "19:00:00",
         "all_day": false
@@ -816,38 +816,6 @@
     ]
   },
   {
-    "title": "Concerts at the Clubhouse",
-    "url": "https://mishawaka.in.gov/event/concerts-at-the-clubhouse/2026-08-14/",
-    "location": "Eberhart-Petro Municipal Golf Course | 801 N. State St. | Mishawaka, IN 46544",
-    "description": "Concerts at the Clubhouse - Summer 2026 Enjoy live music all summer long at the Eberhart - Petro Golf Course! Join us for our Concerts at the Clubhouse series, featuring local and […]",
-    "iso_start": "2026-08-14T19:00:00-04:00",
-    "iso_end": "2026-08-14T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-14",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Concerts at the Clubhouse",
-    "url": "https://mishawaka.in.gov/event/concerts-at-the-clubhouse/2026-08-21/",
-    "location": "Eberhart-Petro Municipal Golf Course | 801 N. State St. | Mishawaka, IN 46544",
-    "description": "Concerts at the Clubhouse - Summer 2026 Enjoy live music all summer long at the Eberhart - Petro Golf Course! Join us for our Concerts at the Clubhouse series, featuring local and […]",
-    "iso_start": "2026-08-21T19:00:00-04:00",
-    "iso_end": "2026-08-21T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-21",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
     "title": "Front Porch Friday With Mayor Dave Wood.",
     "url": "https://mishawaka.in.gov/event/front-porch-friday-with-mayor-dave-wood-2/",
     "location": "Mishawaka Utilities Business Office | 107 N Main Street | Mishawaka, IN 46544",
@@ -875,22 +843,6 @@
         "date": "2026-09-19",
         "start_time": "10:00:00",
         "end_time": "13:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Historic Preservation Commission",
-    "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2026-08-04/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
-    "iso_start": "2026-08-04T16:00:00-04:00",
-    "iso_end": "2026-08-04T17:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-04",
-        "start_time": "16:00:00",
-        "end_time": "17:00:00",
         "all_day": false
       }
     ]
@@ -992,49 +944,17 @@
     ]
   },
   {
-    "title": "Kamm Island Parrot Head Fest",
-    "url": "https://mishawaka.in.gov/event/kamm-island-parrot-head-fest/",
-    "location": "Kamm Island | 600 W. Front St. | Mishawaka, IN 46544",
-    "description": "Parrot Head Fest - 21+ over only see website for ticket information. Presale discount until 8.15!! https://wl.eventim.us/event/parrot - head - fest - 2026/696493",
-    "iso_start": "2026-08-29T15:00:00-04:00",
-    "iso_end": "2026-08-29T21:00:00-04:00",
+    "title": "Historic Preservation Commission",
+    "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2027-03-02/",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
+    "iso_start": "2027-03-02T16:00:00-05:00",
+    "iso_end": "2027-03-02T17:00:00-05:00",
     "schedule_instances": [
       {
-        "date": "2026-08-29",
-        "start_time": "15:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Learn to Play Pickleball",
-    "url": "https://mishawaka.in.gov/event/learn-to-play-pickleball-2/2026-08-17/",
-    "location": "Rose Park | 1400 S West St | Mishawaka, IN 46544",
-    "description": "The clinic will cover serves, serve returns, non - volley zone play, court positioning and scoring. The Michiana Pickleball Club will provide paddles and balls for use. No need to sign - up, simply […]",
-    "iso_start": "2026-08-17T18:00:00-04:00",
-    "iso_end": "2026-08-17T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-17",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Learn to Play Pickleball",
-    "url": "https://mishawaka.in.gov/event/learn-to-play-pickleball/2026-08-03/",
-    "location": "Rose Park | 1400 S West St | Mishawaka, IN 46544",
-    "description": "The clinic will cover serves, serve returns, non - volley zone play, court positioning and scoring. The Michiana Pickleball Club will provide paddles and balls for use. No need to sign - up, simply […]",
-    "iso_start": "2026-08-03T18:00:00-04:00",
-    "iso_end": "2026-08-03T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-03",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
+        "date": "2027-03-02",
+        "start_time": "16:00:00",
+        "end_time": "17:00:00",
         "all_day": false
       }
     ]
@@ -1083,70 +1003,6 @@
         "date": "2026-10-03",
         "start_time": "19:00:00",
         "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Mishawaka Market",
-    "url": "https://mishawaka.in.gov/event/mishawaka-market/2026-08-02/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for year 8 of the Mishawaka Market! The Market runs from 10 am - 2 pm, May 31st through September 27th*. There will be produce, crafts, baked goods, […]",
-    "iso_start": "2026-08-02T10:00:00-04:00",
-    "iso_end": "2026-08-02T14:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-02",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Mishawaka Market",
-    "url": "https://mishawaka.in.gov/event/mishawaka-market/2026-08-09/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for year 8 of the Mishawaka Market! The Market runs from 10 am - 2 pm, May 31st through September 27th*. There will be produce, crafts, baked goods, […]",
-    "iso_start": "2026-08-09T10:00:00-04:00",
-    "iso_end": "2026-08-09T14:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-09",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Mishawaka Market",
-    "url": "https://mishawaka.in.gov/event/mishawaka-market/2026-08-16/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for year 8 of the Mishawaka Market! The Market runs from 10 am - 2 pm, May 31st through September 27th*. There will be produce, crafts, baked goods, […]",
-    "iso_start": "2026-08-16T10:00:00-04:00",
-    "iso_end": "2026-08-16T14:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-16",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Mishawaka Market",
-    "url": "https://mishawaka.in.gov/event/mishawaka-market/2026-08-23/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for year 8 of the Mishawaka Market! The Market runs from 10 am - 2 pm, May 31st through September 27th*. There will be produce, crafts, baked goods, […]",
-    "iso_start": "2026-08-23T10:00:00-04:00",
-    "iso_end": "2026-08-23T14:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-23",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
         "all_day": false
       }
     ]
@@ -1211,54 +1067,6 @@
         "date": "2026-09-27",
         "start_time": "10:00:00",
         "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "National Night Out",
-    "url": "https://mishawaka.in.gov/event/national-night-out/",
-    "location": "",
-    "description": "On Tuesday, August 4th, 2026, from 5:30 pm to 7:30 pm, the Mishawaka Police Department invites the community to participate in the 2026 National Night Out Event at Merrifield Park […]",
-    "iso_start": "2026-08-04T17:30:00-04:00",
-    "iso_end": "2026-08-04T19:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-04",
-        "start_time": "17:30:00",
-        "end_time": "19:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Ninja Mayhem",
-    "url": "https://mishawaka.in.gov/event/ninja-mayhem/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for the best Ninja Experience around. Test your ninja skills on the obstacle course and other awesome inflatables at one of the time slots below! 9:00 am - […]",
-    "iso_start": "2026-08-15T09:00:00-04:00",
-    "iso_end": "2026-08-15T16:20:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-15",
-        "start_time": "09:00:00",
-        "end_time": "16:20:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-08-24/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-08-24T16:30:00-04:00",
-    "iso_end": "2026-08-24T17:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-24",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
         "all_day": false
       }
     ]
@@ -1345,14 +1153,14 @@
   },
   {
     "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2026-08-10/",
+    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2027-02-22/",
     "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
     "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-08-10T16:30:00-04:00",
-    "iso_end": "2026-08-10T17:30:00-04:00",
+    "iso_start": "2027-02-22T16:30:00-05:00",
+    "iso_end": "2027-02-22T17:30:00-05:00",
     "schedule_instances": [
       {
-        "date": "2026-08-10",
+        "date": "2027-02-22",
         "start_time": "16:30:00",
         "end_time": "17:30:00",
         "all_day": false
@@ -1433,6 +1241,22 @@
     "schedule_instances": [
       {
         "date": "2027-01-11",
+        "start_time": "16:30:00",
+        "end_time": "17:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Parks and Recreation Board meeting",
+    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2027-02-08/",
+    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
+    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
+    "iso_start": "2027-02-08T16:30:00-05:00",
+    "iso_end": "2027-02-08T17:30:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-02-08",
         "start_time": "16:30:00",
         "end_time": "17:30:00",
         "all_day": false
@@ -1665,22 +1489,6 @@
   },
   {
     "title": "Redevelopment Commission",
-    "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-08-24/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-08-24T17:30:00-04:00",
-    "iso_end": "2026-08-24T18:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-24",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Redevelopment Commission",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-09-28/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
@@ -1792,144 +1600,32 @@
     ]
   },
   {
-    "title": "Rock The Block Party",
-    "url": "https://mishawaka.in.gov/event/rock-the-block-party/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "ROCK THE BLOCK ADMISSION Want to save a few bucks and skip the line? Pre - sale admission tickets are now available! **$5 Pre - Sale** **$10 At The Door** Simply scan the QR […]",
-    "iso_start": "2026-08-07T17:00:00-04:00",
-    "iso_end": "2026-08-07T17:00:00-04:00",
+    "title": "Redevelopment Commission",
+    "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2027-02-22/",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
+    "iso_start": "2027-02-22T17:30:00-05:00",
+    "iso_end": "2027-02-22T18:30:00-05:00",
     "schedule_instances": [
       {
-        "date": "2026-08-07",
+        "date": "2027-02-22",
+        "start_time": "17:30:00",
+        "end_time": "18:30:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Table or Treat",
+    "url": "https://mishawaka.in.gov/event/table-or-treat/",
+    "location": "Mishawaka River Walk | Mishawaka, IN 46544 United States + Google Map | Mishawaka, IN 46544",
+    "description": "Come trick - or - treat with us and 80+ local businesses along the Mishawaka Riverwalk. Registration is not required to attend as a trick or treater. Date: October 24thTime: 5:00 - 7:00 pmLocation: Along the […]",
+    "iso_start": "2026-10-24T17:00:00-04:00",
+    "iso_end": "2026-10-24T19:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-10-24",
         "start_time": "17:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series-2/2026-08-05/",
-    "location": "Ball Band Biergarten | Ironworks Ave. | Mishawaka, IN 46544",
-    "description": "Join us for the Summer Concert Series at the Ballband Biergarten, Wednesdays from 7:00pm - 9:00pm. Rain dates: 8/19",
-    "iso_start": "2026-08-05T19:00:00-04:00",
-    "iso_end": "2026-08-05T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-05",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series-2/2026-08-12/",
-    "location": "Ball Band Biergarten | Ironworks Ave. | Mishawaka, IN 46544",
-    "description": "Join us for the Summer Concert Series at the Ballband Biergarten, Wednesdays from 7:00pm - 9:00pm. Rain dates: 8/19",
-    "iso_start": "2026-08-12T19:00:00-04:00",
-    "iso_end": "2026-08-12T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-12",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series-4/2026-08-06/",
-    "location": "Kamm Island | 600 W. Front St. | Mishawaka, IN 46544",
-    "description": "Join us for the Summer Concert Series at Kamm Island on Thursdays from 7:00pm - 9:00pm. Rain dates: 8/13",
-    "iso_start": "2026-08-06T19:00:00-04:00",
-    "iso_end": "2026-08-06T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-06",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series-4/2026-08-13/",
-    "location": "Kamm Island | 600 W. Front St. | Mishawaka, IN 46544",
-    "description": "Join us for the Summer Concert Series at Kamm Island on Thursdays from 7:00pm - 9:00pm. Rain dates: 8/13",
-    "iso_start": "2026-08-13T19:00:00-04:00",
-    "iso_end": "2026-08-13T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-13",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series-4/2026-08-20/",
-    "location": "Kamm Island | 600 W. Front St. | Mishawaka, IN 46544",
-    "description": "Join us for the Summer Concert Series at Kamm Island on Thursdays from 7:00pm - 9:00pm. Rain dates: 8/13",
-    "iso_start": "2026-08-20T19:00:00-04:00",
-    "iso_end": "2026-08-20T21:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-20",
-        "start_time": "19:00:00",
-        "end_time": "21:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series/2026-08-03/",
-    "location": "Battell Park | IN 46544 United States + Google Map | IN 46544",
-    "description": "Join us for the Summer Concert Series at the Battell Park Bandshell. Mondays from 7:00pm - 8:30pm. Rain dates: 6/29 and 8/17",
-    "iso_start": "2026-08-03T19:00:00-04:00",
-    "iso_end": "2026-08-03T20:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-03",
-        "start_time": "19:00:00",
-        "end_time": "20:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Summer Concert Series",
-    "url": "https://mishawaka.in.gov/event/summer-concert-series/2026-08-10/",
-    "location": "Battell Park | IN 46544 United States + Google Map | IN 46544",
-    "description": "Join us for the Summer Concert Series at the Battell Park Bandshell. Mondays from 7:00pm - 8:30pm. Rain dates: 6/29 and 8/17",
-    "iso_start": "2026-08-10T19:00:00-04:00",
-    "iso_end": "2026-08-10T20:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-08-10",
-        "start_time": "19:00:00",
-        "end_time": "20:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Taylorville At Ironworks!",
-    "url": "https://mishawaka.in.gov/event/taylorville-at-ironworks/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Are you a Swiftie that knows all of Taylor’s music? Well, lucky for you, Taylorville will be coming to Mishawaka! Come join us dance through each era down at Ironworks […]",
-    "iso_start": "2026-07-31T19:00:00-04:00",
-    "iso_end": "2026-07-31T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-07-31",
-        "start_time": "19:00:00",
         "end_time": "19:00:00",
         "all_day": false
       }
