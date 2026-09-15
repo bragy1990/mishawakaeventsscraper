@@ -641,22 +641,6 @@
   },
   {
     "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-05-12/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-06-09/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
@@ -681,6 +665,22 @@
     "schedule_instances": [
       {
         "date": "2026-09-08",
+        "start_time": "18:00:00",
+        "end_time": "19:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Board of Zoning Appeals",
+    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-10-13/",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2026-10-13T18:00:00-04:00",
+    "iso_end": "2026-10-13T19:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-10-13",
         "start_time": "18:00:00",
         "end_time": "19:00:00",
         "all_day": false
@@ -1297,22 +1297,6 @@
   },
   {
     "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2025-07-08/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission-2025-08-12/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
@@ -1393,6 +1377,22 @@
   },
   {
     "title": "Plan Commission",
+    "url": "https://mishawaka.in.gov/event/plan-commission-2026-01-13/",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2026-09-08T19:00:00-04:00",
+    "iso_end": "2026-09-08T20:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-09-08",
+        "start_time": "19:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission-2026-02-10/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
@@ -1426,6 +1426,22 @@
   {
     "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission-2026-04-14/",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2026-09-08T19:00:00-04:00",
+    "iso_end": "2026-09-08T20:00:00-04:00",
+    "schedule_instances": [
+      {
+        "date": "2026-09-08",
+        "start_time": "19:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Plan Commission",
+    "url": "https://mishawaka.in.gov/event/plan-commission-2026-06-09/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
     "iso_start": "2026-09-08T19:00:00-04:00",
