@@ -16,148 +16,40 @@
     ]
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-09-01/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-01T10:00:00-04:00",
-    "iso_end": "2026-09-01T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-01",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-09-08/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T10:00:00-04:00",
-    "iso_end": "2026-09-08T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-09-15/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-15T10:00:00-04:00",
-    "iso_end": "2026-09-15T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-15",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-09-22/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-22T10:00:00-04:00",
-    "iso_end": "2026-09-22T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-22",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-09-29/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-29T10:00:00-04:00",
-    "iso_end": "2026-09-29T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-29",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-10-06/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-10-06T10:00:00-04:00",
-    "iso_end": "2026-10-06T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-06",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-10-13/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-10-13T10:00:00-04:00",
-    "iso_end": "2026-10-13T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-13",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-10-20/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-10-20T10:00:00-04:00",
-    "iso_end": "2026-10-20T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-20",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-10-27/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-10-27T10:00:00-04:00",
-    "iso_end": "2026-10-27T11:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-27",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Board of Public Works Meeting.",
@@ -192,564 +84,193 @@
     ]
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-11-17/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-11-17T10:00:00-05:00",
-    "iso_end": "2026-11-17T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-17",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-11-24/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-11-24T10:00:00-05:00",
-    "iso_end": "2026-11-24T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-24",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-12-01/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-12-01T10:00:00-05:00",
-    "iso_end": "2026-12-01T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-01",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-12-08/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-12-08T10:00:00-05:00",
-    "iso_end": "2026-12-08T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-08",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-12-15/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-12-15T10:00:00-05:00",
-    "iso_end": "2026-12-15T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-15",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-12-22/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-12-22T10:00:00-05:00",
-    "iso_end": "2026-12-22T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-22",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2026-12-29/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-12-29T10:00:00-05:00",
-    "iso_end": "2026-12-29T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-29",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-05/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2027-01-05T10:00:00-05:00",
-    "iso_end": "2027-01-05T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-05",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-12/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2027-01-12T10:00:00-05:00",
-    "iso_end": "2027-01-12T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-12",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-19/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-01-19T10:00:00-05:00",
-    "iso_end": "2027-01-19T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-19",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-01-26/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-01-26T10:00:00-05:00",
-    "iso_end": "2027-01-26T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-26",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-02/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2027-02-02T10:00:00-05:00",
-    "iso_end": "2027-02-02T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-02",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-09/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2027-02-09T10:00:00-05:00",
-    "iso_end": "2027-02-09T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-09",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
-    "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-16/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2027-02-16T10:00:00-05:00",
-    "iso_end": "2027-02-16T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-16",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-23/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2027-02-23T10:00:00-05:00",
-    "iso_end": "2027-02-23T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-23",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Public Works Meeting.",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-03-02/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2027-03-02T10:00:00-05:00",
-    "iso_end": "2027-03-02T11:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-03-02",
-        "start_time": "10:00:00",
-        "end_time": "11:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-05-13/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-06-10/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-07-08/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-08-12/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-09-09/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-11-11/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2025-12-09/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-01-13/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-02-10/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-03-10/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-04-14/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-06-09/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-08-11/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Board of Zoning Appeals",
-    "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-09-08/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T18:00:00-04:00",
-    "iso_end": "2026-09-08T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Board of Zoning Appeals",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/board-of-zoning-appeals-2026-10-13/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-10-13T18:00:00-04:00",
-    "iso_end": "2026-10-13T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-13",
-        "start_time": "18:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Boo’s & Brews Haunted Brewfest",
-    "url": "https://mishawaka.in.gov/event/boos-brews-haunted-brewfest/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for our second annual Haunted Brewfest, Boos and Brews down at Ironworks Plaza on FRIDAY, October 16th, from 7pm - 10pm.Access to unlimited samples, VIP options, food trucks, artisan market, […]",
-    "iso_start": "2026-10-16T19:00:00-04:00",
-    "iso_end": "2026-10-16T22:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-16",
-        "start_time": "19:00:00",
-        "end_time": "22:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Common Council Meeting",
-    "url": "https://mishawaka.in.gov/event/common-council-meeting-2-2-2/2026-09-21/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "In accordance with Indiana law, please consider this our annual notice of the Mishawaka Common Council Meetings: The regular meetings of the Common Council of the City of Mishawaka, Indiana, […]",
-    "iso_start": "2026-09-21T17:45:00-04:00",
-    "iso_end": "2026-09-21T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-21",
-        "start_time": "17:45:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Common Council Meeting",
-    "url": "https://mishawaka.in.gov/event/common-council-meeting-2-2-2/2026-10-19/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "In accordance with Indiana law, please consider this our annual notice of the Mishawaka Common Council Meetings: The regular meetings of the Common Council of the City of Mishawaka, Indiana, […]",
-    "iso_start": "2026-10-19T17:45:00-04:00",
-    "iso_end": "2026-10-19T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-19",
-        "start_time": "17:45:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Common Council Meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/common-council-meeting-2-2-2/2026-11-16/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "In accordance with Indiana law, please consider this our annual notice of the Mishawaka Common Council Meetings: The regular meetings of the Common Council of the City of Mishawaka, Indiana, […]",
-    "iso_start": "2026-11-16T17:45:00-05:00",
-    "iso_end": "2026-11-16T19:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-16",
-        "start_time": "17:45:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Common Council Meeting",
@@ -816,20 +337,13 @@
     ]
   },
   {
-    "title": "Common Council Meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/common-council-meeting/2026-12-07/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "In accordance with Indiana law, please consider this our annual notice of the Mishawaka Common Council Meetings: The regular meetings of the Common Council of the City of Mishawaka, Indiana, […]",
-    "iso_start": "2026-12-07T17:45:00-05:00",
-    "iso_end": "2026-12-07T19:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-07",
-        "start_time": "17:45:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Front Porch Friday With Mayor Dave Wood.",
@@ -864,20 +378,13 @@
     ]
   },
   {
-    "title": "Historic Preservation Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2026-09-01/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
-    "iso_start": "2026-09-01T16:00:00-04:00",
-    "iso_end": "2026-09-01T17:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-01",
-        "start_time": "16:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Historic Preservation Commission",
@@ -896,52 +403,31 @@
     ]
   },
   {
-    "title": "Historic Preservation Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2026-11-03/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
-    "iso_start": "2026-11-03T16:00:00-05:00",
-    "iso_end": "2026-11-03T17:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-03",
-        "start_time": "16:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Historic Preservation Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2026-12-01/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
-    "iso_start": "2026-12-01T16:00:00-05:00",
-    "iso_end": "2026-12-01T17:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-01",
-        "start_time": "16:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Historic Preservation Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2027-01-05/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
-    "iso_start": "2027-01-05T16:00:00-05:00",
-    "iso_end": "2027-01-05T17:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-05",
-        "start_time": "16:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Historic Preservation Commission",
@@ -960,20 +446,13 @@
     ]
   },
   {
-    "title": "Historic Preservation Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/historic-preservation-commission/2027-03-02/",
-    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Historic Preservation Commission meets in the Board of Public Works room on the first Tuesday of each month at 4 p.m. All meetings are open to the public. You […]",
-    "iso_start": "2027-03-02T16:00:00-05:00",
-    "iso_end": "2027-03-02T17:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-03-02",
-        "start_time": "16:00:00",
-        "end_time": "17:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Mish Fall Fest",
@@ -1056,20 +535,13 @@
     ]
   },
   {
-    "title": "Mishawaka Market",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/mishawaka-market/2026-09-20/",
-    "location": "Ironworks Plaza | 235 Ironworks Ave | Mishawaka, IN 46544",
-    "description": "Join us for year 8 of the Mishawaka Market! The Market runs from 10 am - 2 pm, May 31st through September 27th*. There will be produce, crafts, baked goods, […]",
-    "iso_start": "2026-09-20T10:00:00-04:00",
-    "iso_end": "2026-09-20T14:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-20",
-        "start_time": "10:00:00",
-        "end_time": "14:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Mishawaka Market",
@@ -1088,36 +560,13 @@
     ]
   },
   {
-    "title": "Parks and Recreation Board meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-09-28/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-09-28T16:30:00-04:00",
-    "iso_end": "2026-09-28T17:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-28",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-10-26/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-10-26T16:30:00-04:00",
-    "iso_end": "2026-10-26T17:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-26",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Parks and Recreation Board meeting",
@@ -1136,36 +585,22 @@
     ]
   },
   {
-    "title": "Parks and Recreation Board meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-12-28/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-12-28T16:30:00-05:00",
-    "iso_end": "2026-12-28T17:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-28",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Parks and Recreation Board meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2027-01-25/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2027-01-25T16:30:00-05:00",
-    "iso_end": "2027-01-25T17:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-25",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Parks and Recreation Board meeting",
@@ -1184,20 +619,13 @@
     ]
   },
   {
-    "title": "Parks and Recreation Board meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2026-09-14/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-09-14T16:30:00-04:00",
-    "iso_end": "2026-09-14T17:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-14",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Parks and Recreation Board meeting",
@@ -1216,84 +644,40 @@
     ]
   },
   {
-    "title": "Parks and Recreation Board meeting",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2026-11-09/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-11-09T16:30:00-05:00",
-    "iso_end": "2026-11-09T17:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-09",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2026-12-14/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-12-14T16:30:00-05:00",
-    "iso_end": "2026-12-14T17:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-14",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2027-01-11/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2027-01-11T16:30:00-05:00",
-    "iso_end": "2027-01-11T17:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-01-11",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2027-02-08/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2027-02-08T16:30:00-05:00",
-    "iso_end": "2027-02-08T17:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-08",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2025-05-13/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
+  },
+  {
+    "title": "Gateway time - out",
+    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2026-12-14/",
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
+  },
+  {
+    "title": "Gateway time - out",
+    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2027-01-11/",
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
+  },
+  {
+    "title": "Gateway time - out",
+    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting/2027-02-08/",
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Plan Commission",
@@ -1312,40 +696,17 @@
     ]
   },
   {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2025-07-08/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/plan-commission-2025-08-12/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "location": "",
     "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2025-10-14/",
+    "url": "https://mishawaka.in.gov/event/plan-commission-2026-09-08/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
     "iso_start": "2026-09-08T19:00:00-04:00",
@@ -1360,164 +721,13 @@
     ]
   },
   {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2025-11-11/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2025-12-09/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2026-01-13/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2026-02-10/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2026-03-10/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2026-04-14/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2026-06-09/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission-2026-07-14/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-09-08T19:00:00-04:00",
-    "iso_end": "2026-09-08T20:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-08",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Redevelopment Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-09-28/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-09-28T17:30:00-04:00",
-    "iso_end": "2026-09-28T18:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-28",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Redevelopment Commission",
-    "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-10-26/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-10-26T17:30:00-04:00",
-    "iso_end": "2026-10-26T18:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-26",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Redevelopment Commission",
@@ -1536,52 +746,31 @@
     ]
   },
   {
-    "title": "Redevelopment Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-11-23/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-11-23T17:30:00-05:00",
-    "iso_end": "2026-11-23T18:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-23",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Redevelopment Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-12-14/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-12-14T17:30:00-05:00",
-    "iso_end": "2026-12-14T18:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-14",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
-    "title": "Redevelopment Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-12-28/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-12-28T17:30:00-05:00",
-    "iso_end": "2026-12-28T18:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-12-28",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   },
   {
     "title": "Redevelopment Commission",
@@ -1600,35 +789,12 @@
     ]
   },
   {
-    "title": "Redevelopment Commission",
+    "title": "Gateway time - out",
     "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2027-02-22/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2027-02-22T17:30:00-05:00",
-    "iso_end": "2027-02-22T18:30:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2027-02-22",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Table or Treat",
-    "url": "https://mishawaka.in.gov/event/table-or-treat/",
-    "location": "Mishawaka River Walk | Mishawaka, IN 46544 United States + Google Map | Mishawaka, IN 46544",
-    "description": "Come trick - or - treat with us and 80+ local businesses along the Mishawaka Riverwalk. Registration is not required to attend as a trick or treater. Date: October 24thTime: 5:00 - 7:00 pmLocation: Along the […]",
-    "iso_start": "2026-10-24T17:00:00-04:00",
-    "iso_end": "2026-10-24T19:00:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-10-24",
-        "start_time": "17:00:00",
-        "end_time": "19:00:00",
-        "all_day": false
-      }
-    ]
+    "location": "",
+    "description": "",
+    "iso_start": null,
+    "iso_end": null,
+    "schedule_instances": []
   }
 ]
