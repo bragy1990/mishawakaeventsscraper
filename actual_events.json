@@ -336,13 +336,20 @@
     ]
   },
   {
-    "title": "Gateway time - out",
+    "title": "Board of Public Works Meeting.",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-02-16/",
-    "location": "",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
-    "iso_start": null,
-    "iso_end": null,
-    "schedule_instances": []
+    "iso_start": "2027-02-16T10:00:00-05:00",
+    "iso_end": "2027-02-16T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-02-16",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
   },
   {
     "title": "Board of Public Works Meeting.",
@@ -361,13 +368,20 @@
     ]
   },
   {
-    "title": "Gateway time - out",
+    "title": "Board of Public Works Meeting.",
     "url": "https://mishawaka.in.gov/event/board-of-public-works-meeting-2/2027-03-02/",
-    "location": "",
+    "location": "City of Mishawaka, Board of Works and Safety Room | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
-    "iso_start": null,
-    "iso_end": null,
-    "schedule_instances": []
+    "iso_start": "2027-03-02T10:00:00-05:00",
+    "iso_end": "2027-03-02T11:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-03-02",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "all_day": false
+      }
+    ]
   },
   {
     "title": "Board of Public Works Meeting.",
