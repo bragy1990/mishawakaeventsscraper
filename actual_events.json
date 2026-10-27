@@ -1505,6 +1505,22 @@
   },
   {
     "title": "Plan Commission",
+    "url": "https://mishawaka.in.gov/event/plan-commission/2027-01-05/",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
+    "description": "",
+    "iso_start": "2027-01-05T19:00:00-05:00",
+    "iso_end": "2027-01-05T20:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-01-05",
+        "start_time": "19:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
+  },
+  {
+    "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission/2027-01-12/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
