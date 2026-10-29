@@ -1089,22 +1089,6 @@
   },
   {
     "title": "Parks and Recreation Board meeting",
-    "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-09-28/",
-    "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
-    "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
-    "iso_start": "2026-09-28T16:30:00-04:00",
-    "iso_end": "2026-09-28T17:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-28",
-        "start_time": "16:30:00",
-        "end_time": "17:30:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Parks and Recreation Board meeting",
     "url": "https://mishawaka.in.gov/event/parks-and-recreation-board-meeting-2/2026-10-26/",
     "location": "Ironworks Event Center | 414 N. Hill St. | Mishawaka, IN 46544",
     "description": "Parks & Recreation Board The Parks & Recreation Board works in cooperation with the Parks and Recreation Department and meets on the second and fourth Mondays of each month at […]",
@@ -1659,22 +1643,6 @@
         "date": "2027-03-30",
         "start_time": "19:00:00",
         "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Redevelopment Commission",
-    "url": "https://mishawaka.in.gov/event/redevelopment-commission-2-2/2026-09-28/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "The Mishawaka Redevelopment Commission will hold its regular meeting the fourth Monday (unless otherwise noted) of each month at 5:30 p.m. in the Board of Public Works Room at 100 […]",
-    "iso_start": "2026-09-28T17:30:00-04:00",
-    "iso_end": "2026-09-28T18:30:00-04:00",
-    "schedule_instances": [
-      {
-        "date": "2026-09-28",
-        "start_time": "17:30:00",
-        "end_time": "18:30:00",
         "all_day": false
       }
     ]
