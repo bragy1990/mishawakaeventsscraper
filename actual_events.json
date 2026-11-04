@@ -1201,22 +1201,6 @@
   },
   {
     "title": "Plan Commission",
-    "url": "https://mishawaka.in.gov/event/plan-commission/2026-11-03/",
-    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
-    "description": "",
-    "iso_start": "2026-11-03T19:00:00-05:00",
-    "iso_end": "2026-11-03T20:00:00-05:00",
-    "schedule_instances": [
-      {
-        "date": "2026-11-03",
-        "start_time": "19:00:00",
-        "end_time": "20:00:00",
-        "all_day": false
-      }
-    ]
-  },
-  {
-    "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission/2026-11-10/",
     "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
@@ -1280,13 +1264,20 @@
     ]
   },
   {
-    "title": "Gateway time - out",
+    "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission/2026-12-08/",
-    "location": "",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
-    "iso_start": null,
-    "iso_end": null,
-    "schedule_instances": []
+    "iso_start": "2026-12-08T19:00:00-05:00",
+    "iso_end": "2026-12-08T20:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2026-12-08",
+        "start_time": "19:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
   },
   {
     "title": "Plan Commission",
@@ -1353,13 +1344,20 @@
     ]
   },
   {
-    "title": "Gateway time - out",
+    "title": "Plan Commission",
     "url": "https://mishawaka.in.gov/event/plan-commission/2027-01-12/",
-    "location": "",
+    "location": "City Hall, Council Chambers | 100 Lincolnway West | Mishawaka, IN 46544",
     "description": "",
-    "iso_start": null,
-    "iso_end": null,
-    "schedule_instances": []
+    "iso_start": "2027-01-12T19:00:00-05:00",
+    "iso_end": "2027-01-12T20:00:00-05:00",
+    "schedule_instances": [
+      {
+        "date": "2027-01-12",
+        "start_time": "19:00:00",
+        "end_time": "20:00:00",
+        "all_day": false
+      }
+    ]
   },
   {
     "title": "Plan Commission",
